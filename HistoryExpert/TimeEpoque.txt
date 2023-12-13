@@ -1,0 +1,21 @@
+1
+1
+Paleolithic
+1
+2
+Mesolithic
+1
+3
+Neolithic
+1
+4
+Bronze Age
+2
+1
+Iron Age
+3
+1
+Early Middle Ages
+3
+2
+Classical Middle Ages
